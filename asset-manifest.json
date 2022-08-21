@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/ghibli-api/static/css/main.01b01b92.css",
-    "main.js": "/ghibli-api/static/js/main.d1a1a5db.js",
+    "main.js": "/ghibli-api/static/js/main.9c1b5483.js",
     "static/media/vid.mp4": "/ghibli-api/static/media/vid.5e371945789700464aac.mp4",
     "static/media/MSGothic.ttf": "/ghibli-api/static/media/MSGothic.f34998bb1da77eaf3f86.ttf",
     "static/media/kiki.png": "/ghibli-api/static/media/kiki.ba572c788b86e9531aef.png",
     "static/media/logoo.png": "/ghibli-api/static/media/logoo.c9f32a1ccda4cffd3aa9.png",
     "index.html": "/ghibli-api/index.html",
     "main.01b01b92.css.map": "/ghibli-api/static/css/main.01b01b92.css.map",
-    "main.d1a1a5db.js.map": "/ghibli-api/static/js/main.d1a1a5db.js.map"
+    "main.9c1b5483.js.map": "/ghibli-api/static/js/main.9c1b5483.js.map"
   },
   "entrypoints": [
     "static/css/main.01b01b92.css",
-    "static/js/main.d1a1a5db.js"
+    "static/js/main.9c1b5483.js"
   ]
 }
