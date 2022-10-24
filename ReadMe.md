@@ -1,1 +1,3 @@
-Depployed : https://aldrinramores.github.io/ghibli-api/
+## Ghibli API
+
+A list of ghiblie movies pulled up from https://ghibliapi.herokuapp.com/
